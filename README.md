@@ -28,5 +28,4 @@ Update 24-01-2021
 Penambahan docker-compose.yml untuk test-lab.
 
 
-> LOGIN USERNAME : mtmonx
-> LOGIN PASSWORD : nemo144
+> LOGIN USERNAME : mtmonx | LOGIN PASSWORD : nemo144
